@@ -25,7 +25,7 @@ export const Contact = () => {
               <FaGithub />
             </a>
             <a
-              href="mailto:ilhamalazis741@gmail.com"
+              href="mailto:cicada_1911@proton.me"
               className="text-white hover:text-blue-500 text-3xl transition"
             >
               <HiOutlineMail />

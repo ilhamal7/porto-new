@@ -12,7 +12,7 @@ export const Home = () => {
             Hi, I'm Ilham Al Azis
           </h1>
           <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto text-justify">
-            I’m a passionate ethical hacker and penetration tester who thrives on digging through digital systems, uncovering vulnerabilities, and turning bugs into lessons. I live for that rush when something breaks,because it means I’m one step closer to understanding how to fix, protect, and outsmart it. My goal is to push boundaries, not break trust, and to show that security is not just a job, it’s a mindset.
+            I’m a passionate ethical hacker and penetration tester who thrives on digging through digital systems, uncovering vulnerabilities, and turning bugs into lessons. I live for that rush when something breaks, because it means I’m one step closer to understanding how to fix, protect, and outsmart it. My goal is to push boundaries, not break trust, and to show that security is not just a job, it’s a mindset.
           </p>
           <p className="tex-gray-400 text-lg mb-8 max-w-lg mx-auto">
           </p>
